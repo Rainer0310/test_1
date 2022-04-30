@@ -1,6 +1,5 @@
 {
-
-	'p1' = 'Oleg'
-	'p2' = 'Alice'
-
-}
+	"p1":"Alex",
+	"p2":"Oleg",
+	"p3":"Alice" 
+	
